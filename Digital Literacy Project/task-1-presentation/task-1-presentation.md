@@ -1,6 +1,5 @@
-Digital Literacy Project/task-1-presentation/digital literacy poster.png
 
-discription 
+<img width="1024" height="1536" alt="digital literacy poster" src="https://github.com/user-attachments/assets/88672e58-13a6-4483-9bda-7409487f2def" />
 
 For Task 1, I created a digital literacy awareness infographic using Canva, which is a simple and effective online design tool. The purpose of the infographic was to help students understand the importance of digital literacy in today’s academic and professional environment. My design includes key topics such as the meaning of digital literacy, safe internet practices, and the importance of maintaining a professional online presence. I used icons, short bullet points, and a clean layout to make the content visually appealing and easy to understand.
 
