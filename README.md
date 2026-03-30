@@ -6,7 +6,7 @@
 * **Course Code:** CSE0001
 * **Course Title:** Digital Literacy
 * **University:** VIT Bhopal
-* **Credits:** 1 (Pass/Fail)
+* **Credits:** 1 
 
 ---
 
